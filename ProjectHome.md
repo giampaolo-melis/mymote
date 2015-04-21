@@ -1,0 +1,1 @@
+This java library provides utilities to connect to a wiimote device and read the ir sensor output. The supported ir reports are Basic and Extended.
